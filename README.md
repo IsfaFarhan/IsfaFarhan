@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I’m Isfa Farhan! While I’m not a full-stack developer just yet, I proudly consider myself a full-stack designer. I specialize in UI/UX design, illustrations, and simple animations. For me, development is another creative outlet—a way to flex my problem-solving skills and bring ideas to life through code.
+
 <!--
 **IsfaFarhan/IsfaFarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
